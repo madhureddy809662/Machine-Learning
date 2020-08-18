@@ -1,2 +1,2 @@
 # Machine-Learning
-#Madhu Sudhan Reddy Mandhala
+#Madhu Sudhan Reddy Mandala
